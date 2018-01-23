@@ -1,12 +1,8 @@
-# Angry Nerds #
+## Angry Nerds ##
+### Java problems ###
 
-## Java problems ##
 
-<details>
-<summary> Level One[Training Camp] </summary>
 
-1. get area of a circle
-2. integers division
-3. 
+1. Level One [Training Camp] 
+	* Fixing bugs
 
-</details> 
